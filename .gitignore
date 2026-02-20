@@ -1,0 +1,7 @@
+/config/config.php
+/.vscode
+/.idea
+/node_modules
+/vendor
+*.log
+.env

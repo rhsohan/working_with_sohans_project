@@ -1,0 +1,61 @@
+.headersection, .footersection{
+    background: linear-gradient(135deg, #667eea, #764ba2);
+}
+.icon a{
+    background: linear-gradient(135deg, #ff6a00, #ee0979);
+}
+.searchbtn input[type="text"]{
+    background: #f3f4ff;
+    border:1px solid #764ba2;
+}
+.searchbtn input[type="submit"]{
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    border:1px solid #667eea;
+    color:#fff;
+}
+.searchbtn input[type="submit"]:hover {
+    background: linear-gradient(135deg, #764ba2, #667eea);
+}
+input[type="submit"]{
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    border:1px solid #667eea;
+    color:#fff;
+}
+.navsection{
+    background: linear-gradient(135deg, #43cea2, #185a9d);
+}
+.navsection ul li{
+    border-left: 1px solid #764ba2;
+    border-right: 1px solid #667eea;
+}
+.samepost h2 a{color: #5a2d82;}
+.maincontent, .sidebar{
+    background: linear-gradient(180deg, #ffffff, #f2f3ff);
+}
+.samepost img{border: 1px solid #667eea;}
+.contentsection {border: 1px solid #667eea;}
+.samesidebar h2{
+    background: linear-gradient(135deg, #43cea2, #185a9d);
+    border-bottom: 2px solid #5a2d82;
+    color: #fff;
+}
+.readmore a{
+    border: 1px solid #667eea;
+    color: #667eea;
+}
+.readmore a:hover{color: #5a2d82;}
+.pagination a{
+    background: linear-gradient(135deg, #43cea2, #185a9d);
+    border: 1px solid #5a2d82;
+    color: #fff;
+}
+.pagination a:hover{
+    background: linear-gradient(135deg, #185a9d, #43cea2);
+}
+.footermenu ul li a{color: #667eea;}
+.samepost h2, .about h2{color: #5a2d82;}
+.about img{border: 1px solid #5a2d82;}
+.relatedpost h2{
+    background: linear-gradient(135deg, #43cea2, #185a9d);
+    border-bottom: 2px solid #5a2d82 !important;
+}
